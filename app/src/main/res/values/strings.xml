@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IBeaconDemos</string>
+
+    <string name="title_section1">Distance Demo</string>
+    <string name="title_section2">Transmitting</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="major">Major: </string>
+    <string name="minor">Minor: </string>
+    <string name="accuracy">Accuracy: </string>
+</resources>
